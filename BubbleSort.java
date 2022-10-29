@@ -11,6 +11,8 @@ public class BubbleSort{
 		boolean tag = false;
 		for(int i=0;i<arr.length-1;i++){//需要进行4轮比较
 			for(int j=0;j<arr.length-1-i;j++){//每一轮中的比较次数都会减1
+				//如果是从大到小排序就是arr[j+1]>arr[j]
+				//如果是从小到大排序就是arr[j]>arr[j+1]
 				if(arr[j]>arr[j+1]){//前者大于后者则进行交换
 					temp = arr[j];
 					arr[j] = arr[j+1];
