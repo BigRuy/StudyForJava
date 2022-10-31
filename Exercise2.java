@@ -108,6 +108,18 @@ public class Exercise2{
 			System.out.print(arr[i]+" ");
 		}
 
+		//先确定数据应该插入到哪一个位置然后再扩容
+
+
+		//需求：随机生成10个1-100的整数保存到数组
+		int[] arr = new int[];
+		for(int i=0;i<arr.length;i++){
+			arr[i] = (int)(Math.random()*100)+1;
+		}
+		for(int j=arr.length-1;j>=0;j-- ){//倒序打印数组
+			System.out.print(arr[j]+" ");
+		}
+
 
 
 

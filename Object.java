@@ -48,6 +48,10 @@ class Cat{
 		return res;
 	}
 }
+class Person{
+	String name;
+	int age;
+}
 
 //定义一个工具类
 class MyTools{
@@ -66,11 +70,14 @@ class MyTools{
 		resArr[0] = n1+n2;
 		resArr[1] = n1-n2;
 		return resArr;
+	} 
+	//编写一个方法可以克隆对象
+	public Person copyPerson(Person p){
+		Person p2 = new Person();
+		p2.name = p.name;
+		p2.age = p.age;
+		return p2;
 	}
-
-
-
-
 }
 
 
