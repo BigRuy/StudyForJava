@@ -4,7 +4,7 @@ import javax.swing.*;
 
 /**
  * @author 王露夷
- * @version 1.0
+ * @version 2.0
  * 主程序
  */
 public class TankGame02 extends JFrame {
