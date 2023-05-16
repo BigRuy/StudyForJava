@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6ed59e4-d22f-4f79-9dc6-aaf6ce8196f0" name="Changes" comment="" />
+    <list default="true" id="f6ed59e4-d22f-4f79-9dc6-aaf6ce8196f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/wly/homework/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wly/homework/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wly/homework/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wly/inputstream/ObjectInputStream_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wly/outputstream/ObjectOutputStream_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wly/printstream/PrintStream_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wly/printstream/PrintWriter_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wly/properites/Properites_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wly/properites/Properties_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wly/reader/BufferedReader_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wly/standard/InputAndOuput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wly/transformation/Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wly/writer/BufferedCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wly/writer/BufferedWriter_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysql.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mysql2.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="2PjPZdTKmpwieYuCLjooWaUIUT7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,6 +47,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HomeWork3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wly.homework.HomeWork3" />
+      <module name="testpro9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wly.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HomeWork3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,5 +79,17 @@
       <workItem from="1683967578509" duration="1000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
